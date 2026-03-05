@@ -1,6 +1,6 @@
-# Gamba - Slot Machine
+# GambleWin
 
-**Gamba** is a high-stakes slot machine simulation that uses your actual files as currency. This application is designed to demonstrate the extreme risks of gambling by tying game outcomes to the encryption and decryption of your personal data.
+**GambleWin** is a high-stakes slot machine simulation that uses your actual files as currency. This application is designed to demonstrate the extreme risks of gambling by tying game outcomes to the encryption and decryption of your personal data.
 
 ## ⚠️ DISCLAIMER & WARNING ⚠️
 **I AM NOT RESPONSIBLE FOR ANY LOST, ENCRYPTED, OR CORRUPTED FILES.**
