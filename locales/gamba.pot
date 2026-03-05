@@ -1,0 +1,144 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-24 22:32+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gamba.py:271
+msgid "Terms of Decryption"
+msgstr ""
+
+#: gamba.py:302
+msgid "WARNING"
+msgstr ""
+
+#: gamba.py:308
+msgid ""
+"You are about to decrypt your files, recovering your data and effectively "
+"ending this gambling session.\n"
+"\n"
+"However, by doing so, you acknowledge the extreme theoretical and practical "
+"risks associated with gambling, including but not limited to:\n"
+"\n"
+"1. THE DOPAMINE LOOP\n"
+"Gambling creates artificial spikes in dopamine, hijacking the brain's reward "
+"system. This EULA confirms you understand that the flashing lights and "
+"sounds were designed to psychologically manipulate you into betting your own "
+"files.\n"
+"\n"
+"2. THE SUNK COST FALLACY\n"
+"Quitting now means accepting any losses you have accrued. Gambling preys "
+"upon the irrational desire to \"win back\" what was lost, which "
+"mathematically leads to absolute ruin. This software takes no responsibility "
+"for financial, emotional, or data-related destruction.\n"
+"\n"
+"3. ILLUSION OF CONTROL\n"
+"You acknowledge that the outcomes are strictly pseudo-random and heavily "
+"rigged by house edge algorithms to prevent overflowing the starting coin "
+"cap. You never had control.\n"
+"\n"
+"4. ESCALATION OF COMMITMENT\n"
+"This is a small simulation, but real gambling leads to escalated betting, "
+"chased losses, and severe real-world consequences.\n"
+"\n"
+"By pressing Accept, you legally acknowledge that you have read this entire "
+"warning, understand the psychological traps of the casino, and accept full "
+"responsibility for clicking the spinning reels.\n"
+"\n"
+"Scroll to the absolute bottom to accept."
+msgstr ""
+
+#: gamba.py:335
+msgid "Decline & Keep Gambling"
+msgstr ""
+
+#: gamba.py:339
+msgid "I Understand, Decrypt My Files"
+msgstr ""
+
+#: gamba.py:380
+msgid "Slots"
+msgstr ""
+
+#: gamba.py:508
+#, python-brace-format
+msgid "Current: {coins}"
+msgstr ""
+
+#: gamba.py:527
+msgid "Bet Amount"
+msgstr ""
+
+#: gamba.py:569
+msgid "Ready to Spin"
+msgstr ""
+
+#: gamba.py:576
+msgid "SPIN"
+msgstr ""
+
+#: gamba.py:688
+msgid "Not enough files!"
+msgstr ""
+
+#: gamba.py:823
+msgid "No Windows files array loaded."
+msgstr ""
+
+#: gamba.py:830
+msgid "Decrypting all files..."
+msgstr ""
+
+#: gamba.py:846
+#, python-brace-format
+msgid "Decrypted {count} files completely!"
+msgstr ""
+
+#: gamba.py:881
+msgid "MASSIVE WIN! Decrypting all files..."
+msgstr ""
+
+#: gamba.py:893
+msgid "MASSIVE WIN! All files have been decrypted!"
+msgstr ""
+
+#: gamba.py:900
+msgid "MASSIVE LOSE! Encrypting everything..."
+msgstr ""
+
+#: gamba.py:908
+msgid "MASSIVE LOSE! Say goodbye to your files!"
+msgstr ""
+
+#: gamba.py:924
+#, python-brace-format
+msgid "WINNER! +{winnings} (Decrypting...)"
+msgstr ""
+
+#: gamba.py:933
+#, python-brace-format
+msgid "WINNER! +{winnings} (Decrypted {decrypted_count} files!)"
+msgstr ""
+
+#: gamba.py:940
+#, python-brace-format
+msgid "Try Again! (Encrypting {amount} files...)"
+msgstr ""
+
+#: gamba.py:948
+#, python-brace-format
+msgid "Try Again! (Encrypted {count} files!)"
+msgstr ""

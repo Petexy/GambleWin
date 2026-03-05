@@ -1,0 +1,206 @@
+# Polish translations for gamba.
+# Copyright (C) 2026 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gamba\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-02-24 22:32+0100\n"
+"PO-Revision-Date: 2026-02-24 22:35+0100\n"
+"Last-Translator: AI Assistant\n"
+"Language-Team: Polish\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: gamba.py:271
+msgid "Terms of Decryption"
+msgstr "Warunki Deszyfracji"
+
+#: gamba.py:302
+msgid "WARNING"
+msgstr "OSTRZEŻENIE"
+
+#: gamba.py:308
+msgid ""
+"You are about to decrypt your files, recovering your data and effectively "
+"ending this gambling session.\n"
+"\n"
+"However, by doing so, you acknowledge the extreme theoretical and practical "
+"risks associated with gambling, including but not limited to:\n"
+"\n"
+"1. THE DOPAMINE LOOP\n"
+"Gambling creates artificial spikes in dopamine, hijacking the brain's reward "
+"system. This EULA confirms you understand that the flashing lights and "
+"sounds were designed to psychologically manipulate you into betting your own "
+"files.\n"
+"\n"
+"2. THE SUNK COST FALLACY\n"
+"Quitting now means accepting any losses you have accrued. Gambling preys "
+"upon the irrational desire to \"win back\" what was lost, which "
+"mathematically leads to absolute ruin. This software takes no responsibility "
+"for financial, emotional, or data-related destruction.\n"
+"\n"
+"3. ILLUSION OF CONTROL\n"
+"You acknowledge that the outcomes are strictly pseudo-random and heavily "
+"rigged by house edge algorithms to prevent overflowing the starting coin "
+"cap. You never had control.\n"
+"\n"
+"4. ESCALATION OF COMMITMENT\n"
+"This is a small simulation, but real gambling leads to escalated betting, "
+"chased losses, and severe real-world consequences.\n"
+"\n"
+"By pressing Accept, you legally acknowledge that you have read this entire "
+"warning, understand the psychological traps of the casino, and accept full "
+"responsibility for clicking the spinning reels.\n"
+"\n"
+"Scroll to the absolute bottom to accept."
+msgstr ""
+"Zaraz odszyfrujesz swoje pliki, odzyskując dane i tym samym "
+"kończąc tę sesję hazardową.\n"
+"\n"
+"Jednakże, czyniąc to, przyjmujesz do wiadomości ekstremalne teoretyczne i praktyczne "
+"ryzyka związane z hazardem, w tym, ale nie wyłącznie:\n"
+"\n"
+"1. PĘTLA DOPAMINOWA\n"
+"Hazard wywołuje sztuczne skoki dopaminy, przejmując mózgowy system "
+"nagrody. Ta umowa EULA potwierdza, że rozumiesz, iż migające światła i "
+"dźwięki miały za zadanie psychologicznie zmanipulować Cię, byś założył "
+"się o własne pliki.\n"
+"\n"
+"2. BŁĄD UTOPIONYCH KOSZTÓW\n"
+"Rezygnacja teraz oznacza akceptację wszelkich poniesionych strat. Hazard żeruje "
+"na irracjonalnym pragnieniu „odegrania się” za to, co zostało stracone, co "
+"matematycznie prowadzi do absolutnej ruiny. To oprogramowanie nie ponosi "
+"odpowiedzialności za szkody finansowe, emocjonalne ani utratę danych.\n"
+"\n"
+"3. ILUZJA KONTROLI\n"
+"Przyjmujesz do wiadomości, że wyniki są wyłącznie pseudolosowe i silnie "
+"zaprogramowane przez algorytmy przewagi kasyna, by uniknąć wyrównania stawki "
+"początkowej. Nigdy nie miałeś kontroli.\n"
+"\n"
+"4. ESKALACJA ZAANGAŻOWANIA\n"
+"To zaledwie mała symulacja, ale prawdziwy hazard prowadzi do eskalacji "
+"zakładów, gonienia strat i poważnych konsekwencji życiowych.\n"
+"\n"
+"Naciskając Akceptuj, potwierdzasz prawnie, że przeczytałeś całe to "
+"ostrzeżenie, rozumiesz psychologiczne pułapki kasyna i bierzesz na siebie "
+"całą odpowiedzialność za kliknięcie wirujących bębnów.\n"
+"\n"
+"Zjedź na sam dół, aby zaakceptować."
+
+#: gamba.py:335
+msgid "Decline & Keep Gambling"
+msgstr "Odrzuć i graj dalej"
+
+#: gamba.py:339
+msgid "I Understand, Decrypt My Files"
+msgstr "Rozumiem, odszyfruj moje pliki"
+
+#: gamba.py:380
+msgid "Slots"
+msgstr "Automaty"
+
+#: gamba.py:508
+#, python-brace-format
+msgid "Current: {coins}"
+msgstr "Aktualnie: {coins}"
+
+#: gamba.py:527
+msgid "Bet Amount"
+msgstr "Kwota Zakładu"
+
+#: gamba.py:569
+msgid "Ready to Spin"
+msgstr "Gotowy do rzutu"
+
+#: gamba.py:576
+msgid "SPIN"
+msgstr "KRĘĆ"
+
+#: gamba.py:688
+msgid "Not enough files!"
+msgstr "Za mało plików!"
+
+#: gamba.py:823
+msgid "No Windows files array loaded."
+msgstr "Nie wczytano tablicy plików Windows."
+
+#: gamba.py:830
+msgid "Decrypting all files..."
+msgstr "Deszyfruję wszystkie pliki..."
+
+#: gamba.py:846
+#, python-brace-format
+msgid "Decrypted {count} files completely!"
+msgstr "Całkowicie odszyfrowano {count} pliki(ów)!"
+
+#: gamba.py:881
+msgid "MASSIVE WIN! Decrypting all files..."
+msgstr "OGROMNA WYGRANA! Deszyfruję wszystkie pliki..."
+
+#: gamba.py:893
+msgid "MASSIVE WIN! All files have been decrypted!"
+msgstr "OGROMNA WYGRANA! Wszystkie pliki zostały odszyfrowane!"
+
+#: gamba.py:900
+msgid "MASSIVE LOSE! Encrypting everything..."
+msgstr "POTĘŻNA PRZEGRANA! Szyfruję wszystko..."
+
+#: gamba.py:908
+msgid "MASSIVE LOSE! Say goodbye to your files!"
+msgstr "POTĘŻNA PRZEGRANA! Pożegnaj się ze swoimi plikami!"
+
+#: gamba.py:924
+#, python-brace-format
+msgid "WINNER! +{winnings} (Decrypting...)"
+msgstr "WYGRANA! +{winnings} (Deszyfrowanie...)"
+
+#: gamba.py:933
+#, python-brace-format
+msgid "WINNER! +{winnings} (Decrypted {decrypted_count} files!)"
+msgstr "WYGRANA! +{winnings} (Odszyfrowano {decrypted_count} pliki(ów)!)"
+
+#: gamba.py:940
+#, python-brace-format
+msgid "Try Again! (Encrypting {amount} files...)"
+msgstr "Spróbuj ponownie! (Szyfrowanie {amount} pliki(ów)...)"
+
+#: gamba.py:948
+#, python-brace-format
+msgid "Try Again! (Encrypted {count} files!)"
+msgstr "Spróbuj ponownie! (Zaszyfrowano {count} pliki(ów)!)"
+
+#: gamba.py:486
+msgid "Decrypt all files"
+msgstr "Odszyfruj wszystkie pliki"
+
+
+#: gamba.py:768
+msgid "SPINNING..."
+msgstr "LOSOWANIE..."
+
+
+msgid "Game Over"
+msgstr "Koniec Gry"
+
+msgid "You ran out of files! Better luck next time."
+msgstr "Skończyły Ci się pliki! Powodzenia następnym razem."
+
+msgid "Close"
+msgstr "Zamknij"
+
+msgid "Root Permissions Required"
+msgstr "Wymagane Uprawnienia administratora"
+
+msgid "Gambling with Windows files requires root permissions to securely read and write to the partition.\nPlease enter your sudo password."
+msgstr "Zastawianie plików Windows wymaga uprawnień administratora do odczytu i zapisu partycji.\nProszę podać hasło sudo."
+
+msgid "Quit"
+msgstr "Wyjdź"
+
+msgid "Authorize"
+msgstr "Autoryzuj"
